@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 384 384" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#3a96dd;}.cls-2{fill:#0063b1;}.cls-3{fill:#fff;}</style>
+  </defs>
+  <title>azure-bot-service-square-circle</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect class="cls-1" width="384" height="384"/>
+      <circle class="cls-2" cx="192" cy="192" r="128"/>
+      <circle class="cls-3" cx="189.017" cy="191.999" r="12" style="" transform="matrix(0.658256, 0, 0, 0.665153, 132.819138, 125.407677)"/>
+      <path class="cls-3" d="M 247.053 272.437 L 114.238 270.157 C 109.82 270.157 106.238 266.575 106.238 262.157 L 106.781 142.337 L 122.238 171.647 L 122.238 254.157 L 204.748 254.157 L 247.053 272.437 Z"/>
+      <path class="cls-3" d="M 275.402 237.79 L 258.695 219.511 L 257.883 124.825 L 175.373 124.825 L 152.6 109.419 L 265.883 108.825 C 270.302 108.825 273.883 112.407 273.883 116.825 L 275.402 237.79 Z"/>
+      <circle class="cls-3" cx="189.017" cy="191.999" r="12" style="" transform="matrix(0.618452, 0, 0, 0.665153, 20.014231, 4.798311)"/>
+    </g>
+  </g>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 13.8px; white-space: pre;" transform="matrix(3.391241, 0, 0, 2.701447, -451.151947, -189.315216)" x="140.333" y="98.105" dx="36.699" dy="61.975">מכבי</text>
+  <text style="fill: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 13.8px; white-space: pre;" transform="matrix(2.933108, -1.669976, 1.871305, 3.286715, -704.961426, -238.67099)" x="151.053" y="216.982">kidOK</text>
+</svg>
