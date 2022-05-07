@@ -115,16 +115,16 @@ function initBotConversation() {
                             jsonWebToken: jsonWebToken,
 
                             // Use the following activity to proactively invoke a bot scenario
-                            /*
+                            
                             triggeredScenario: {
-                                trigger: "{scenario_id}",
+                                trigger: "kidok1",
                                 args: {
-                                    location: location,
-                                    myVar1: "{custom_arg_1}",
-                                    myVar2: "{custom_arg_2}"
+                                    location: location
+                                    //myVar1: "{custom_arg_1}",
+                                    //myVar2: "{custom_arg_2}"
                                 }
                             }
-                            */
+                            
                         }
                     }
                 }
@@ -150,7 +150,8 @@ function initBotConversation() {
         store: store,
         userID: user.id,
         username: user.name,
-        locale: user.locale
+        locale: user.locale,
+        dir: 'rtl'
     };
     startChat(user, webchatOptions);
 }
